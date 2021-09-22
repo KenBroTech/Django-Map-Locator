@@ -1,0 +1,4 @@
+django
+folium
+geocoder
+django-crispy-forms
